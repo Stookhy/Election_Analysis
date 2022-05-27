@@ -35,3 +35,5 @@ Which candidate won the election, what was their vote count, and what was their 
 ## Election-Audit Summary: 
 
   The script can be used for any election, with some modifications to the script. For instance, the analysis can be more detailed by providing a percentage view of votes for each candidate, for each county. This can be done by adding a conditional statement to the code. Also, this can be expanded and has the capacity to include more candidates and counties, simply by modifying the script to expand the data source.
+
+![This is an image](https://github.com/Stookhy/Election_Analysis/blob/main/Election_Results.png?raw=true)
