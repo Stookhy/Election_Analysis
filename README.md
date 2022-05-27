@@ -11,14 +11,10 @@
 7.	Create and use membership and logical operators to create compound comparison expressions or conditional statements for data retrieval
 8.	Use printing formats to add printing statements in script
 
-## Election-Audit Results: 
-
- The advantages related to refactoring code include:
-    •	Ease in reviewing the work and finding the root causes to debug
-    •	Ability to make the code more readable and easier for a user to understand
+## Election-Audit Results:
 
 How many votes were cast in this congressional election?
-    • 369, 711 total votes were casted
+  369, 711 total votes were casted
   
 Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
     • Jefferson precinct- 10.5% of total votes (38,855)
