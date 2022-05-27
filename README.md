@@ -17,9 +17,9 @@ How many votes were cast in this congressional election?
   • 369, 711 total votes were casted
   
 Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
-  •	Jefferson precinct- 10.5% of total votes (38,855)
-  • Denver precinct- 82.8% of total votes (306,055)
-  • Arapahoe precinct- 6.7% of total votes (24, 801)
+  Jefferson precinct- 10.5% of total votes (38,855)
+  Denver precinct- 82.8% of total votes (306,055)
+  Arapahoe precinct- 6.7% of total votes (24, 801)
   
 Which county had the largest number of votes?
   • Denver had the highest number of votes, comprising 82.8% of total votes (306,055)
